@@ -1,0 +1,21 @@
+# Core Flask Stack
+flask
+gunicorn
+
+# Data Processing (Lightweight Versions)
+pandas
+numpy
+
+# Stock Data
+yfinance
+
+# Machine Learning
+scikit-learn
+
+# TensorFlow Alternative (Lighter)
+tensorflow
+# OR if using Python 3.7:
+# tensorflow-cpu==2.6.0
+
+# Optional (Add only if needed)
+python-dotenv # For environment variables
